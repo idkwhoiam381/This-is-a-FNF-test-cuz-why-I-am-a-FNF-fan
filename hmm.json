@@ -69,6 +69,12 @@
       "name": "newgrounds",
       "type": "haxelib",
       "version": "1.3.0"
+    },
+    {
+      "name": "extension-webview",
+      "type": "git",
+      "ref": "master",
+      "url": "https://github.com/MatheusSilver/extension-webview"
     }
   ]
 }
